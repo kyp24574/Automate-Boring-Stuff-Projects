@@ -32,4 +32,10 @@ A repository for my python solutions to the practice projects in <a href='https:
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%207/regex_strip.py'>Regex Strip</a></li>
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%207/strong_password_detection.py'>Strong Password Detection</a></li>
   </ul>
+
+  <li>Chapter 8 - Input Validation</li>
+  <ul>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%208/sandwich_maker.py'>Sandwich Maker</a></li>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%208/multiplication_quiz.py'>Multiplication Quiz</a></li>
+  </ul>
 </ul>
