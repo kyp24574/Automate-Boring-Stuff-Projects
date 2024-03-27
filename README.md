@@ -38,4 +38,11 @@ A repository for my python solutions to the practice projects in <a href='https:
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%208/sandwich_maker.py'>Sandwich Maker</a></li>
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%208/multiplication_quiz.py'>Multiplication Quiz</a></li>
   </ul>
+
+  <li>Chapter 9 - Reading and Writing Files</li>
+  <ul>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%209/mcb.pyw'>Multi-Clipboard Delete</a></li>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%209/mad_libs.py'>Mad Libs</a></li>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%209/regex_search.py'>Regex File Search</a></li>
+  </ul>
 </ul>
