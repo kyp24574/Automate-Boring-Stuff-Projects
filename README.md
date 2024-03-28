@@ -45,4 +45,11 @@ A repository for my python solutions to the practice projects in <a href='https:
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%209/mad_libs.py'>Mad Libs</a></li>
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%209/regex_search.py'>Regex File Search</a></li>
   </ul>
+
+  <li>Chapter 10 - Organizing Files</li>
+  <ul>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%2010/selective_copy.py'>Selective Copy</a></li>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%2010/delete_unneeded_files.py'>Delete Unneeded Files</a></li>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%2010/filling_in_gaps.py'>Filling in the Gaps</a></li>
+  </ul>
 </ul>
