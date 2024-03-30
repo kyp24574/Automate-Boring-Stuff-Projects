@@ -52,4 +52,9 @@ A repository for my python solutions to the practice projects in <a href='https:
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%2010/delete_unneeded_files.py'>Delete Unneeded Files</a></li>
     <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%2010/filling_in_gaps.py'>Filling in the Gaps</a></li>
   </ul>
+
+  <li>Chapter 11 - Debugging</li>
+  <ul>
+    <li><a href='https://github.com/kyp24574/Automate-Boring-Stuff-Projects/blob/main/Chapter%2011/debugging_coin_toss.py'>Debugging Coin Toss</a></li>
+  </ul>
 </ul>
